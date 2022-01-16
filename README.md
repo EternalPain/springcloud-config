@@ -1,6 +1,7 @@
 springcloud-config 配置中心
 
 
+
 拉取命令：
 
 ```.git
@@ -8,7 +9,8 @@ git clone git@github.com:EternalPain/springcloud-config.git
 ```
 
 
-yml文件配置
+
+yml文件配置：
 ```.yml
 spring:
   application:

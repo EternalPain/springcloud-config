@@ -14,7 +14,7 @@ yml文件配置：
 ```.yml
 spring:
   application:
-    name: cloud-config-center   # 注册进 Eureka 服务器的服务名
+    name: cloud-config-server   # 注册进 Eureka 服务器的服务名
   cloud:
     config:
       server:

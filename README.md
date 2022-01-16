@@ -21,7 +21,7 @@ spring:
         git:
 #          username: 账号
 #          password: 密码
-#          uri: https://github.com/EternalPain/com.zjl.springcloud-config.git  # GitHub 的 git 仓库地址
+#          uri: https://github.com/EternalPain/com.zjl.springcloud-config.git  # GitHub 的 https 仓库地址
 
           # ssh连接 需配置 SSH keys
           uri: git@github.com:EternalPain/com.zjl.springcloud-config.git  # GitHub 的 git 仓库地址
